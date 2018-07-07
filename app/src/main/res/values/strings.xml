@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterApproach</string>
+    <string name="main_hint_tweet">Enter Your Tweet</string>
+    <string name="main_post">Post</string>
+</resources>
